@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover:wght@400&display=swap');
+    body {
+      margin: 0; line-height: normal;
+    }
+:root {
+
+/* fonts */
+--font-irish-grover: 'Irish Grover';
+
+/* font sizes */
+--font-size-5xl: 24px;
+
+/* Colors */
+--color-black: #000;
+
+/* Border radiuses */
+--br-81xl: 100px;
+
+}

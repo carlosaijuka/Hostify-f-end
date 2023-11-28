@@ -1,0 +1,120 @@
+.frameChild {
+position: absolute;
+top: 70px;
+left: 32px;
+border-radius: var(--br-81xl);
+background-color: #ca0707;
+width: 319px;
+height: 173px;
+}
+.discoverYour {
+margin: 0;
+}
+.discoverYourSuitableContainer {
+position: absolute;
+top: 275px;
+left: 32px;
+color: #962e2e;
+display: inline-block;
+width: 649px;
+height: 136px;
+}
+.frameItem {
+position: absolute;
+top: 357px;
+left: 74px;
+border-radius: var(--br-81xl);
+background-color: #4f824b;
+width: 574px;
+height: 54px;
+}
+.frameInner {
+position: absolute;
+top: 475px;
+left: 41px;
+border-radius: var(--br-81xl);
+width: 278px;
+height: 191px;
+object-fit: cover;
+}
+.nanaHostel {
+position: absolute;
+top: 445px;
+left: 105px;
+color: #1b394f;
+display: inline-block;
+width: 389px;
+}
+.rectangleIcon {
+position: absolute;
+top: 474px;
+left: 372px;
+border-radius: var(--br-81xl);
+width: 276px;
+height: 191px;
+object-fit: cover;
+}
+.olympiaHostel {
+position: absolute;
+top: 444px;
+left: 420px;
+color: #182547;
+display: inline-block;
+width: 228px;
+height: 59px;
+}
+.frameChild1 {
+position: absolute;
+top: 780px;
+left: 41px;
+border-radius: var(--br-81xl);
+width: 278px;
+height: 182px;
+object-fit: cover;
+}
+.frameChild2 {
+position: absolute;
+top: 780px;
+left: 375px;
+border-radius: var(--br-81xl);
+width: 273px;
+height: 182px;
+object-fit: cover;
+}
+.aryanHostel {
+position: absolute;
+top: 741px;
+left: 437px;
+color: #1d2040;
+display: inline-block;
+width: 244px;
+height: 57px;
+}
+.hostifyBooking {
+position: absolute;
+top: 378px;
+left: 136px;
+display: inline-block;
+width: 248px;
+height: 6px;
+}
+.jjHostel {
+position: absolute;
+top: 741px;
+left: 105px;
+display: inline-block;
+width: 315px;
+height: 79px;
+}
+.rectangleParent {
+position: relative;
+background-color: #fff;
+width: 100%;
+height: 1071px;
+overflow: hidden;
+text-align: left;
+font-size: var(--font-size-5xl);
+color: var(--color-black);
+font-family: var(--font-irish-grover);
+}
+
